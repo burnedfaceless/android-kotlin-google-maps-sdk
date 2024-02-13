@@ -2,4 +2,9 @@
     <string name="app_name">Google Maps</string>
     <string name="title_activity_maps">Maps Demo</string>
     <string name="google_maps_key" templateMargeStrategy="preserve" translatable="false">AIzaSyD3LAUoaayW74E2Tv7x10STa8e5F-3t40A</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="none">None</string>
 </resources>
